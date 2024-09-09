@@ -1,5 +1,1 @@
-import * as users from "./fake.api/user.api"
-const API = {
-    users
-}
-export default API
+export { users } from "./data/user.api";
